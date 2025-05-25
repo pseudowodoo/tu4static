@@ -91,8 +91,8 @@
     "n": 12,
     "developer": "Kerk Jun Gang",
     "category": "Education or Work",
-    "name": "",
-    "website": "",
+    "name": "SkillsBridge",
+    "website": "https://skillsbridge.site/",
     "summary": ""
   },
   {
@@ -132,8 +132,8 @@
     "developer": "Tan Hann Yee",
     "category": "Health & Sports",
     "name": "",
-    "website": "",
-    "summary": "Mood Trends: Track emotional patterns over time with interactive visuals that promote self-awareness."
+    "website": "https://techupdischarge.com/",
+    "summary": "Simplifies hospital discharge by providing patients with a single, accessible, and easy-to-understand platform for all their discharge instructions."
   },
   {
     "n": 17,
@@ -147,9 +147,9 @@
     "n": 18,
     "developer": "Lee Han Chuan",
     "category": "Education or Work",
-    "name": "",
-    "website": "",
-    "summary": "Private Journal: A secure space to express thoughts and feelings, with built-in privacy controls."
+    "name": "There's Something about AI",
+    "website": "https://somethingaboutai.app/",
+    "summary": "A web app that allows users to enter a single AI prompt/queries and the app will auto submit to multiple AI engines and display the results on the page."
   },
   {
     "n": 19,
@@ -163,8 +163,8 @@
     "n": 20,
     "developer": "Zhi Wen",
     "category": "Health & Sports",
-    "name": "",
-    "website": "",
+    "name": "CasualFitnessDiary",
+    "website": "https://casualfitnessdiary.com/",
     "summary": "Mood-Based Recommendations: Personalized self-care prompts and coping strategies tailored to how users feel."
   },
   {
@@ -251,9 +251,9 @@
     "n": 31,
     "developer": "Bee Lian Doreen, Tan",
     "category": "Food/Drinks",
-    "name": "",
+    "name": "Where to eat JB",
     "website": "https://wheretoeatjb.food/",
-    "summary": ""
+    "summary": "Fast Recommendations"
   },
   {
     "n": 32,
@@ -281,7 +281,7 @@
   },
   {
     "n": 35,
-    "developer": "",
+    "developer": "Kaylynn",
     "category": "Specific Activities/Hobbies",
     "name": "FoodReconnect",
     "website": "https://foodreconnect.com/",
