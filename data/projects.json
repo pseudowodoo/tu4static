@@ -1,0 +1,410 @@
+[
+  {
+    "n": 1,
+    "developer": "Phua Su-Mei Andrea",
+    "category": "Govt Operations",
+    "name": "For Approval Pls - an MDDI guide to policy writing",
+    "website": "https://www.forapprovalpls.com",
+    "summary": "Policy writing and grammar resource, to help new officers understand the basics of clear and impactful writing, in the digital policy context."
+  },
+  {
+    "n": 2,
+    "developer": "Nicholas Ong Luhao",
+    "category": "Social or Family Needs",
+    "name": "PlayPalSG - Have Fun. Explore Singapore. Create Memories",
+    "website": "https://www.playpal.today",
+    "summary": "A parent's guide to playgrounds in Singapore: helping parents locate age-appropriate playgrounds for kids."
+  },
+  {
+    "n": 3,
+    "developer": "Ho KangSheng Kenneth",
+    "category": "Food/Drinks",
+    "name": "Eatwhere",
+    "website": "https://eatwhere.food",
+    "summary": "EatWhere is a light, fun, and practical web app to help you discover good food around MDDI, especially when you're out of ideas or have teammates with different dietary needs."
+  },
+  {
+    "n": 4,
+    "developer": "Leng Sze Ing",
+    "category": "Govt Operations",
+    "name": "IAD-SS Audit Service",
+    "website": "https://iad-ss.online/",
+    "summary": "This is a professional web application for GovTech IAD-SS (Information Assurance Department - Shared Services), which specializes in providing IT audit services for government agencies in Singapore. The application serves as a digital presence and service platform for their IT audit and cybersecurity services."
+  },
+  {
+    "n": 5,
+    "developer": "Dennis Ngo Yang Li",
+    "category": "Everyday Life (non-sports)",
+    "name": "Kiap N' Save",
+    "website": "https://kiapnsave.com",
+    "summary": "Kiap N' Save is your one-stop web app to help you track, compare and save on your groceries."
+  },
+  {
+    "n": 6,
+    "developer": "Lau Yuan Zhi",
+    "category": "Food/Drinks",
+    "name": "Best of Hokkien Mee Map",
+    "website": "https://hokkienmeego.com/",
+    "summary": "Craving for Hokkien Mee but do not know where to go?"
+  },
+  {
+    "n": 7,
+    "developer": "Linus Lim Ji Wei",
+    "category": "Specific Activities/Hobbies",
+    "name": "CanBorrowNot?",
+    "website": "https://canborrownot.com",
+    "summary": "CanBorrowNot? is your friendly neighborhood sharing platform: find tools, gear, and everyday items from folks right around your estate."
+  },
+  {
+    "n": 8,
+    "developer": "Tan Wie Guan",
+    "category": "Specific Activities/Hobbies",
+    "name": "ReCARvery",
+    "website": "https://autocarassist.com/",
+    "summary": "ReCARvery was created to help drivers quickly identify car problems and find appropriate repair services without the stress and confusion that often comes with vehicle breakdowns."
+  },
+  {
+    "n": 9,
+    "developer": "Lim Cindy",
+    "category": "Food/Drinks",
+    "name": "MakanDorm",
+    "website": "https://MakanDorm.com",
+    "summary": "Makan Dorm - Your go-to recipe portal featuring easy, simple and delicious recipes for one!"
+  },
+  {
+    "n": 10,
+    "developer": "Peh Chow Yoke",
+    "category": "Everyday Life (non-sports)",
+    "name": "Motivation Buddy",
+    "website": "https://motivation-buddy.com/",
+    "summary": "Let Motivation Buddy know your interest areas and you will receive uplifting messages that resonate with you at your chosen timings, helping you stay positive throughout your day."
+  },
+  {
+    "n": 11,
+    "developer": "July Xie Yue Li",
+    "category": "Specific Activities/Hobbies",
+    "name": "Teambonding",
+    "website": "https://teambonding.online/",
+    "summary": "TeamBonding Online is a comprehensive platform for event organizers in Singapore, providing users with a seamless way to browse events based on their key requirements."
+  },
+  {
+    "n": 12,
+    "developer": "Kerk Jun Gang",
+    "category": "Education or Work",
+    "name": "",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "n": 13,
+    "developer": "Tan Jee How Ricky",
+    "category": "Social or Family Needs",
+    "name": "VibingSG",
+    "website": "https://www.vibingsg.me",
+    "summary": "VibingSG is a mental wellness hub designed for Singaporean teenagers to navigate the emotional ups and downs of academic life."
+  },
+  {
+    "n": 14,
+    "developer": "Heng Wee Meng Samuel",
+    "category": "Everyday Life (non-sports)",
+    "name": "GiftWise",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "n": "14a",
+    "developer": "Chen Shu'en Rachel",
+    "category": "Social or Family Needs",
+    "name": "Digital Parents",
+    "website": "https://techuptardigrade.online",
+    "summary": ""
+  },
+  {
+    "n": 15,
+    "developer": "Wendy Foo",
+    "category": "Food/Drinks",
+    "name": "Protein Picks",
+    "website": "https://proteinpicks.com",
+    "summary": "Helping busy professionals find protein-packed hawker meals"
+  },
+  {
+    "n": 16,
+    "developer": "Tan Hann Yee",
+    "category": "Health & Sports",
+    "name": "",
+    "website": "",
+    "summary": "Mood Trends: Track emotional patterns over time with interactive visuals that promote self-awareness."
+  },
+  {
+    "n": 17,
+    "developer": "Nathanael Tan Huai En",
+    "category": "Food/Drinks",
+    "name": "DishCover",
+    "website": "https://dishcover.org/",
+    "summary": ""
+  },
+  {
+    "n": 18,
+    "developer": "Lee Han Chuan",
+    "category": "Education or Work",
+    "name": "",
+    "website": "",
+    "summary": "Private Journal: A secure space to express thoughts and feelings, with built-in privacy controls."
+  },
+  {
+    "n": 19,
+    "developer": "Bay Chun How",
+    "category": "Education or Work",
+    "name": "Towkay Armour",
+    "website": "https://www.towkayarmour.com",
+    "summary": ""
+  },
+  {
+    "n": 20,
+    "developer": "Zhi Wen",
+    "category": "Health & Sports",
+    "name": "",
+    "website": "",
+    "summary": "Mood-Based Recommendations: Personalized self-care prompts and coping strategies tailored to how users feel."
+  },
+  {
+    "n": 21,
+    "developer": "Oliveiro Vernie Alison",
+    "category": "Education or Work",
+    "name": "Check Own Shelf",
+    "website": "https://www.checkownshelf.com",
+    "summary": ""
+  },
+  {
+    "n": 22,
+    "developer": "Tan Zhixin Jamin",
+    "category": "Food/Drinks",
+    "name": "Cellars.me - your cellar, anywhere",
+    "website": "https://cellars.me",
+    "summary": "Cellars.me tracks what's in your cellar, anywhere you go."
+  },
+  {
+    "n": 23,
+    "developer": "Tan Kok Heng Daniel",
+    "category": "Everyday Life (non-sports)",
+    "name": "Can Retire Meh?",
+    "website": "https://www.canretiremeh.com",
+    "summary": "A one-stop web app that allows working Singapore citizens who are worried about financial planning for their retirement."
+  },
+  {
+    "n": 24,
+    "developer": "Wong Chun Mun Reuben",
+    "category": "Social or Family Needs",
+    "name": "KopiBuddy",
+    "website": "https://www.KopiBuddy.com",
+    "summary": "Curated Videos: Short, engaging educational content to help teens understand stress, emotions, and healthy coping."
+  },
+  {
+    "n": 25,
+    "developer": "Hon Song Wen",
+    "category": "Social or Family Needs",
+    "name": "Play SG",
+    "website": "https://playsg.xyz",
+    "summary": "Play SG is a web application designed specifically for Singapore residents to help them efficiently plan itineraries for foreign visitors. "
+  },
+  {
+    "n": 26,
+    "developer": "Low Rui Ru",
+    "category": "Health & Sports",
+    "name": "Court Time",
+    "website": "https://courttime.info",
+    "summary": "A web app to enable users to find tennis instuctors that meet their needs, so they save time on searching across different platforms. "
+  },
+  {
+    "n": 27,
+    "developer": "Nathanael Hoe Tze Rong",
+    "category": "Everyday Life (non-sports)",
+    "name": "Breached Liao",
+    "website": "https://breachedliao.online",
+    "summary": "A user-friendly web application that enables individuals to easily check if their email address has been exposed in data breaches, spam databases, or leaked repositories."
+  },
+  {
+    "n": 28,
+    "developer": "Amritpal Singh Khaira",
+    "category": "Govt Operations",
+    "name": "IR Pulse (International Relations Pulse)",
+    "website": "https://irpulse.online/",
+    "summary": "IR Pulse is designed to address information overload for Singapore civil servants in international relations roles."
+  },
+  {
+    "n": 29,
+    "developer": "Lam Hung Tak Louis",
+    "category": "Food/Drinks",
+    "name": "FreeWaterWhere?",
+    "website": "https://freewaterwhere.com/",
+    "summary": "FreeWaterWhere? is an app for Singapore that addresses hydration challenges for delivery riders, outdoor exercisers, and tourists"
+  },
+  {
+    "n": 30,
+    "developer": "Siar Hao Ken, Leonard",
+    "category": "Education or Work",
+    "name": "",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "n": 31,
+    "developer": "Bee Lian Doreen, Tan",
+    "category": "Food/Drinks",
+    "name": "",
+    "website": "https://wheretoeatjb.food/",
+    "summary": ""
+  },
+  {
+    "n": 32,
+    "developer": "Lim Hwee Hua",
+    "category": "Social or Family Needs",
+    "name": "Inventree",
+    "website": "https://www.inventre-e.com",
+    "summary": "InvenTree is a household inventory manager built for busy families, especially working parents with young children and helpers managing daily chores."
+  },
+  {
+    "n": 33,
+    "developer": "Foo Hui Hui",
+    "category": "Food/Drinks",
+    "name": "Kitchen Tracker",
+    "website": "https://kitchenfood.life/",
+    "summary": "The web app aids in tracking the food items in the kitchen"
+  },
+  {
+    "n": 34,
+    "developer": "Goh Hian Pin Alex",
+    "category": "Govt Operations",
+    "name": "Findaseat",
+    "website": "https://findaseat.xyz",
+    "summary": "Findaseat is a carpool coordination app designed to help election officials in Singapore secure reliable transport to their GARO centre on polling day."
+  },
+  {
+    "n": 35,
+    "developer": "",
+    "category": "Specific Activities/Hobbies",
+    "name": "FoodReconnect",
+    "website": "https://foodreconnect.com/",
+    "summary": "FoodReconnect helps event organizers quickly redistribute surplus food to nearby users, reducing food waste."
+  },
+  {
+    "n": 36,
+    "developer": "Serene Law Suling",
+    "category": "Everyday Life (non-sports)",
+    "name": "Declutterly.space",
+    "website": "https://www.declutterly.space/",
+    "summary": "Declutterly.space helps one explore options for what to do and where to go with old items, from large appliannces to small gadgets or old batteries, be it to recycle, repair or donate."
+  },
+  {
+    "n": 48,
+    "developer": "Heng Yan Si",
+    "category": "Education or Work",
+    "name": "LinkUp",
+    "website": "https://techuplinkup.com/",
+    "summary": "Officers may pass on training and learning opportunities due to unpredictable work schedules—especially before new task, or when new skills are needed."
+  },
+  {
+    "n": 37,
+    "developer": "Koh Chee Hong",
+    "category": "Health & Sports",
+    "name": "GoWhereRide",
+    "website": "https://www.gowhereride.com",
+    "summary": "A one-stop web app that can help beginner cyclists to kickstart his/her personal cycling journeys."
+  },
+  {
+    "n": 38,
+    "developer": "Yip Ka Man",
+    "category": "Social or Family Needs",
+    "name": "SG Nursing Rooms",
+    "website": "https://sgnursingrooms.com/",
+    "summary": "A nursing room finder to help mothers with young children find accessible and comfortable nursing rooms throughout Singapore"
+  },
+  {
+    "n": 39,
+    "developer": "Ang Jia Lu",
+    "category": "Food/Drinks",
+    "name": "Lunch? Aha!",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "n": 40,
+    "developer": "Ooi Chih Chong",
+    "category": "Govt Operations",
+    "name": "CDA Audit Tracker",
+    "website": "https://cdaaudittracker.xyz/",
+    "summary": "A centralised audit tracker that enhances milestone monitoring with real-time dashboards, visualising audit statuses, delays, and risks at a glance—enabling early leadership intervention."
+  },
+  {
+    "n": 41,
+    "developer": "Megawati Binte Othman",
+    "category": "Govt Operations",
+    "name": "PQ Pal",
+    "website": "https://pqpal.info",
+    "summary": "PQ Pal is a user-friendly web app designed to streamline the process of handling parliamentary question (PQs) for new policy officers."
+  },
+  {
+    "n": 42,
+    "developer": "Sarah Lim Jin Ee",
+    "category": "Health & Sports",
+    "name": "Workout Wizard",
+    "website": "https://workout-wizard.xyz",
+    "summary": "Workout Wizard eliminates decision fatigue by generating personalised workouts in seconds."
+  },
+  {
+    "n": 43,
+    "developer": "Geow Chai Ling Jeelin",
+    "category": "Everyday Life (non-sports)",
+    "name": "Brew My Pass",
+    "website": "https://brewmypass.today/",
+    "summary": "Brew Your Pass is a mobile-friendly web app designed for digital natives in Singapore (aged 18–59) who want strong, memorable passwords without the hassle."
+  },
+  {
+    "n": 44,
+    "developer": "Lee Wey Ting",
+    "category": "Everyday Life (non-sports)",
+    "name": "CareAhead Planner",
+    "website": "https://www.careapp.life/",
+    "summary": "CareAhead Planner is a user-friendly platform to help users understand the importance of end-of-life care planning"
+  },
+  {
+    "n": 45,
+    "developer": "Kau Chee Boon Kelvin",
+    "category": "Everyday Life (non-sports)",
+    "name": "Donate To Who",
+    "website": "https://donate-to-who.com/",
+    "summary": "Donate To Who is a one-stop webpage to match items to be donated to the donation centres which accept the items."
+  },
+  {
+    "n": 46,
+    "developer": "Yang Shuhuan Jasmine",
+    "category": "Health & Sports",
+    "name": "LoveProtein",
+    "website": "https://loveprotein.org",
+    "summary": "A no-login web app that lets users upload a photo of their meal to instantly estimate its protein content."
+  },
+  {
+    "n": 47,
+    "developer": "Lim Yun Zhen",
+    "category": "Govt Operations",
+    "name": "Approver Tracker",
+    "website": "https://approvertracker.space",
+    "summary": ""
+  },
+  {
+    "n": 48,
+    "developer": "Heng Yan Si",
+    "category": "Education or Work",
+    "name": "LinkUp",
+    "website": "https://techuplinkup.com/",
+    "summary": "Matching mentors and mentees based on compatibility"
+  },
+  {
+    "n": 62,
+    "developer": "Vicky Wang Xiaoqing",
+    "category": "Social or Family Needs",
+    "name": "",
+    "website": "",
+    "summary": ""
+  }
+]

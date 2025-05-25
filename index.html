@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" class="bg-gray-900 text-gray-100">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TechUp Run 4</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@latest/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="min-h-screen bg-gray-900 text-gray-100">
+    <div class="container mx-auto px-4 py-8">
+      <h1 class="text-4xl font-bold mb-8 text-center">TechUp Run 4</h1>
+      <div class="mb-6 flex justify-center">
+        <label for="categoryFilter" class="mr-2 text-lg">Filter by Category:</label>
+        <select id="categoryFilter" class="bg-black-800 border border-gray-700 rounded px-3 py-2 text-gray-100">
+          <option value="all">All</option>
+        </select>
+      </div>
+      <div id="cardsContainer" class="grid gap-8 grid-cols-1 sm:grid-cols-2 sm:container"></div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
