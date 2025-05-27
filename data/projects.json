@@ -93,7 +93,7 @@
     "category": "Education or Work",
     "name": "SkillsBridge",
     "website": "https://skillsbridge.site/",
-    "summary": ""
+    "summary": "SkillsBridge is an web application that allows institutes of higher learning (IHLs) to assess their curriculum against market demand."
   },
   {
     "n": 13,
@@ -144,7 +144,7 @@
     "summary": ""
   },
   {
-    "n": 18,
+    "n": 18a,
     "developer": "Lee Han Chuan",
     "category": "Education or Work",
     "name": "There's Something about AI",
@@ -165,7 +165,7 @@
     "category": "Health & Sports",
     "name": "CasualFitnessDiary",
     "website": "https://casualfitnessdiary.com/",
-    "summary": "Mood-Based Recommendations: Personalized self-care prompts and coping strategies tailored to how users feel."
+    "summary": "One place for everything: GPS-tracked cardio and strength workouts in one simple, intuitive interface."
   },
   {
     "n": 21,
@@ -173,7 +173,7 @@
     "category": "Education or Work",
     "name": "Check Own Shelf",
     "website": "https://www.checkownshelf.com",
-    "summary": ""
+    "summary": "Check Own Shelf allows users to check whether they own a book and add books to their account"
   },
   {
     "n": 22,
@@ -240,12 +240,12 @@
     "summary": "FreeWaterWhere? is an app for Singapore that addresses hydration challenges for delivery riders, outdoor exercisers, and tourists"
   },
   {
-    "n": 30,
+    "n": 30a,
     "developer": "Siar Hao Ken, Leonard",
     "category": "Education or Work",
-    "name": "",
-    "website": "",
-    "summary": ""
+    "name": "all ears helpdesk",
+    "website": "https://allears-support.online/",
+    "summary": "These days, teachers just want quick help, but sometimes, getting support takes too many emails, unclear steps, and way too much waiting, just to fix something small. That’s what the Helpdesk Support Assistant is here to solve."
   },
   {
     "n": 31,
